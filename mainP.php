@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Halaman HTML</h1>
+<h1>HTML Page</h1>
 
 <?php
-echo "Halo dunia!";
+echo "Hello From PHP";
 ?>
 
 </body>
